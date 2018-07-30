@@ -364,7 +364,7 @@ body {
 
 @media @media screen and (min-height: 1080px) {
 	body {
-	height: 800px;
+	height: 700px;
 	overflow: hidden;	
 	}
 }
