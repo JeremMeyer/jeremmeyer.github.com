@@ -340,6 +340,7 @@ body {
 .diplomes {
 		height: 10000px;
 		overflow: hidden;
+		margin-bottom: 300px;
 		margin-left:13%;
 		margin-right:13%;
 		padding: 1.5rem;
@@ -348,6 +349,7 @@ body {
 .work {
 		height: 900px;
 		overflow: hidden;
+		margin-bottom: 300px;
 		margin-left:13%;
 		margin-right:13%;	
 }
