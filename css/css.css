@@ -367,3 +367,9 @@ body {
 	}
 
 }
+@media screen and (min-height: 320px) {
+body {
+	height: 800px;
+	overlay: hidden;
+}
+}
