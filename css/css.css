@@ -46,6 +46,7 @@ progress {
 .col-container {
 	display: table;
 	width: 95%;
+	height: 80%;
 	background-color: #eeeeee;
 }
 .col {
