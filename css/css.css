@@ -329,6 +329,7 @@ body {
 		margin-left:15%;
 		margin-right:15%;
 		text-align: center;
+		overflow: hidden;
 }
 .skills {
 		height: 100vh;
@@ -348,7 +349,7 @@ body {
 		padding: 1100 px;
 }
 .work {
-		height: 100vh;
+		height: 800px;
 		overflow: hidden;
 		margin-bottom: 300px;
 		margin-left:13%;
