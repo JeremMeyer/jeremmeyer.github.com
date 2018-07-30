@@ -10,7 +10,6 @@ html {
 	color: #333333;
 	background-color: #eeeeee;
 	overflow: hidden;
-	
 }
 h1, h2, h3,
 h4, h5, h6 {
@@ -284,7 +283,7 @@ progress {
 /* Responsive */
 body {
     -webkit-animation: bugfix infinite 1s;
-	height: 800px;
+	height: 500px;
 }
 
 @-webkit-keyframes bugfix {
