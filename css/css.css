@@ -332,7 +332,7 @@ body {
 		text-align: center;
 }
 .skills {
-		height: 800px;
+		height: 900px;
 		overflow: hidden;
 		margin-bottom: 300px;
 		margin-left:20%;
@@ -360,7 +360,7 @@ body {
 		overflow: hidden;
 		margin-left:20%;
 		margin-right:20%;
-		text-align: center;
+		
 }
 @media screen and (min-width: 700px) {
 	.accueil {
