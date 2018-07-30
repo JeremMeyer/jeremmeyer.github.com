@@ -330,7 +330,7 @@ body {
 		text-align: center;
 }
 .skills {
-		height: 10000px;
+		height: 100vh;
 		overflow: hidden;
 		margin-bottom: 300px;
 		margin-left:20%;
@@ -338,7 +338,7 @@ body {
 		padding: 1000 px;
 }
 .diplomes {
-		height: 10000px;
+		height: 100vh;
 		overflow: hidden;
 		margin-bottom: 300px;
 		margin-left:13%;
@@ -347,7 +347,7 @@ body {
 		padding: 1100 px;
 }
 .work {
-		height: 900px;
+		height: 100vh;
 		overflow: hidden;
 		margin-bottom: 300px;
 		margin-left:13%;
