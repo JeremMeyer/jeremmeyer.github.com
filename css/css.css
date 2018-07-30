@@ -333,7 +333,6 @@ body {
 		margin-right:15%;
 		text-align: center;
 		overflow: hidden;
-		position: inherit;
 }
 }
 .skills {
@@ -342,7 +341,6 @@ body {
 	    padding-bottom: 20px;
 		margin-left:20%;
 		margin-right:20%;
-		position: inherit;	
 }
 .diplomes {
 		height: 1632px;	
@@ -352,7 +350,6 @@ body {
 		margin-right:13%;
 		padding: 1.5rem;
 		padding: 1100 px;
-		position: inherit;
 }
 .work {
 		height: 1632px;	
@@ -360,7 +357,6 @@ body {
 		margin-bottom: 300px;
 		margin-left:13%;
 		margin-right:13%;
-		position: inherit;		
 }
 .contacts {
 		height: 20000px;
@@ -368,6 +364,5 @@ body {
 		overflow: hidden;
 		margin-left:20%;
 		margin-right:20%;
-		position: inherit;
 		
 }
