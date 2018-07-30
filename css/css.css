@@ -315,13 +315,21 @@ body {
 }
 @media screen and (max-height: 768px) {
 	.icons {
-		height: 25px;
+	height: 25px;
 	}
 	progress {
 	width: 70px;
 	height: 10px;
+	}	
+}
+@media screen and (max-width: 768px) {
+	.icons {
+	height: 25px;
 	}
-	
+	progress {
+	width: 70px;
+	height: 10px;
+	}	
 }
 .accueil {
 	overflow: hidden;
