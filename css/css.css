@@ -343,10 +343,8 @@ body {
 }
 }
 .skills {
-		width: 30%;	
 		overflow: hidden;
-		left:35%;
-		right:35%;
+		margin-left: -50%
 		margin-top: 110vh;
 		position: absolute;
 		display: block;
