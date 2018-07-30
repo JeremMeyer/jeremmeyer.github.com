@@ -333,7 +333,11 @@ body {
 		margin-right:15%;
 		text-align: center;
 		overflow: hidden;
-		position: fixed;
+		position: absolute;
+		visible: hidden;
+}
+.accueil:active {
+	visibility: visible;
 }
 .skills {
 		height: 1632px;	
@@ -341,8 +345,11 @@ body {
 	    padding-bottom: 20px;
 		margin-left:20%;
 		margin-right:20%;
-		position: fixed;		
+		position: fixed;	
+		visible: hidden; 
 }
+.skills:active {
+	visibility: visible;
 
 .diplomes {
 		height: 1632px;	
