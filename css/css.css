@@ -45,8 +45,6 @@ progress {
 }
 .col-container {
 	display: table;
-	width: 95%;
-	height: 80%;
 	background-color: #eeeeee;
 }
 .col {
@@ -333,7 +331,7 @@ body {
 		overflow: hidden;
 }
 .skills {
-		height: 100vh;
+		height: 800px;
 		overflow: hidden;
 	    padding-bottom: 20px;
 		margin-left:20%;
