@@ -326,20 +326,22 @@ body {
 	
 }
 .accueil {
-		height: 20000px;
+		height: 2000px;
 		padding-top: 300px;
 		margin-bottom: 300px;	
 		margin-left:15%;
 		margin-right:15%;
 		text-align: center;
 		overflow: hidden;
+		position: fixed;
 }
 .skills {
 		height: 1632px;	
 		overflow: hidden;
 	    padding-bottom: 20px;
 		margin-left:20%;
-		margin-right:20%;	
+		margin-right:20%;
+		position: fixed;		
 }
 
 .diplomes {
@@ -350,13 +352,15 @@ body {
 		margin-right:13%;
 		padding: 1.5rem;
 		padding: 1100 px;
+		position: fixed;
 }
 .work {
 		height: 1632px;	
 		overflow: hidden;
 		margin-bottom: 300px;
 		margin-left:13%;
-		margin-right:13%;	
+		margin-right:13%;
+		position: fixed;		
 }
 .contacts {
 		height: 20000px;
@@ -364,5 +368,6 @@ body {
 		overflow: hidden;
 		margin-left:20%;
 		margin-right:20%;
+		position: fixed;
 		
 }
