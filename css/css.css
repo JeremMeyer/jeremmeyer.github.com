@@ -331,7 +331,7 @@ body {
 		text-align: center;
 }
 .skills {
-		height: 800px;
+		height: 100vh;
 		overflow: hidden;
 	    padding-bottom: 20px;
 		margin-left:20%;
@@ -360,11 +360,4 @@ body {
 		margin-left:20%;
 		margin-right:20%;
 		
-}
-
-@media screen and (min-height: 1080px) {
-	.skills {
-	height: 100vh;
-	overflow: hidden;	
-	}
 }
