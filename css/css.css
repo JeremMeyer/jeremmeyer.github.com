@@ -313,7 +313,7 @@ body {
     }
 	
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-height: 768px) {
 	.icons {
 		height: 25px;
 	}
