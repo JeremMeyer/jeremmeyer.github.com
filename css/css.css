@@ -349,7 +349,7 @@ body {
 		right:35%;
 		margin-top: 110vh;
 		position: absolute;
-		display: inline-block;
+		display: block;
 }
 .diplomes {
 		width: 60%;	
