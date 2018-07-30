@@ -283,7 +283,7 @@ progress {
 /* Responsive */
 body {
     -webkit-animation: bugfix infinite 1s;
-	height: 500px;
+
 }
 
 @-webkit-keyframes bugfix {
@@ -331,12 +331,12 @@ body {
 		text-align: center;
 }
 .skills {
-		height: 500px;
+		height: 850px;
 		overflow: hidden;
-		margin-bottom: 300px;
+	    padding-bottom: 20px;
 		margin-left:20%;
 		margin-right:20%;	
-		margin-bottom: 100px;
+
 }
 .diplomes {
 		height: 800px;
