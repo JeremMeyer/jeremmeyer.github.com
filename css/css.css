@@ -315,7 +315,7 @@ body {
 }
 @media screen and (max-width: 768px) {
 	.icons {
-		height: 30px;
+		height: 25px;
 	}
 	progress {
 	width: 70px;
