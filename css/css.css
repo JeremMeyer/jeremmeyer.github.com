@@ -363,7 +363,7 @@ body {
 }
 
 @media screen and (min-height: 1080px) {
-	body {
+	.skills {
 	height: 700px;
 	overflow: hidden;	
 	}
