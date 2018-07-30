@@ -322,7 +322,7 @@ body {
 	
 }
 .accueil {
-		height: 9000px;
+		height: 10000px;
 		padding-top: 300px;
 		padding-bottom: 300px;	
 		margin-left:15%;
@@ -330,7 +330,7 @@ body {
 		text-align: center;
 }
 .skills {
-		height: 1100px;
+		height: 10000px;
 		overflow: hidden;
 		margin-bottom: 300px;
 		margin-left:20%;
@@ -338,7 +338,7 @@ body {
 		padding: 1000 px;
 }
 .diplomes {
-		height: 1100px;
+		height: 10000px;
 		overflow: hidden;
 		margin-left:13%;
 		margin-right:13%;
