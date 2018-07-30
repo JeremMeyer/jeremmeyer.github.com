@@ -20,12 +20,10 @@ h4, h5, h6 {
 }
 h3 {
 	text-align: center;
+	font-size: 20px;
 }
 p {
 	font-size: 14px;
-}
-h3 {
-	font-size: 20px;
 }
 a {
   color: #333333;
@@ -337,11 +335,11 @@ body {
 }
 }
 .skills {
-		width: 50%;	
+		width: 40%;	
 		overflow: hidden;
-		margin-left:25%;
-		margin-right:25%;
-		margin-top: 100vh;
+		margin-left:30%;
+		margin-right:30%;
+		margin-top: 110vh;
 		position: absolute;
 }
 .diplomes {
@@ -349,7 +347,7 @@ body {
 		overflow: hidden;
 		margin-left:20%;
 		margin-right:20%;
-		margin-top: 200vh;
+		margin-top: 210vh;
 		position: absolute;
 }
 .work {
@@ -357,14 +355,14 @@ body {
 		overflow: hidden;
 		margin-left:20%;
 		margin-right:20%;
-		margin-top: 300vh;
+		margin-top: 310vh;
 		position: absolute;
 }
 .contacts {
-		width: 60%;	
+		width: 20%;	
 		overflow: hidden;
-		margin-left:20%;
-		margin-right:20%;
+		margin-left:35%;
+		margin-right:35%;
 		margin-top: 1000vh;
 		position: absolute;
 		margin-bottom: 50vh;
