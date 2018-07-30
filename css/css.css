@@ -334,10 +334,7 @@ body {
 		text-align: center;
 		overflow: hidden;
 		position: absolute;
-		visible: hidden;
 }
-.accueil:active {
-	visibility: visible;
 }
 .skills {
 		height: 1632px;	
@@ -345,12 +342,8 @@ body {
 	    padding-bottom: 20px;
 		margin-left:20%;
 		margin-right:20%;
-		position: fixed;	
-		visible: hidden; 
+		position: absolute;	
 }
-.skills:active {
-	visibility: visible;
-
 .diplomes {
 		height: 1632px;	
 		overflow: hidden;
@@ -359,7 +352,7 @@ body {
 		margin-right:13%;
 		padding: 1.5rem;
 		padding: 1100 px;
-		position: fixed;
+		position: absolute;
 }
 .work {
 		height: 1632px;	
@@ -367,7 +360,7 @@ body {
 		margin-bottom: 300px;
 		margin-left:13%;
 		margin-right:13%;
-		position: fixed;		
+		position: absolute;		
 }
 .contacts {
 		height: 20000px;
@@ -375,6 +368,6 @@ body {
 		overflow: hidden;
 		margin-left:20%;
 		margin-right:20%;
-		position: fixed;
+		position: absolute;
 		
 }
