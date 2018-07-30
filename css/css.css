@@ -337,7 +337,7 @@ body {
 		margin-bottom: 300px;
 		margin-left:20%;
 		margin-right:20%;	
-		
+		margin-bottom: 100px;
 }
 .diplomes {
 		height: 800px;
@@ -357,7 +357,6 @@ body {
 }
 .contacts {
 		height: 800px;
-	
 		overflow: hidden;
 		margin-left:20%;
 		margin-right:20%;
