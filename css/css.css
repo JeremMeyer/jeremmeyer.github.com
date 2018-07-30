@@ -326,8 +326,8 @@ body {
 .accueil {
 	overflow: hidden;
 	height: 100vh;
-	padding-top: 300px;
-	margin-bottom: 300px;	
+	padding-top: 40vh;
+	margin-bottom: 50vh;	
 	margin-left:15%;
 	margin-right:15%;
 	text-align: center;
@@ -335,10 +335,10 @@ body {
 }
 }
 .skills {
-		width: 40%;	
+		width: 30%;	
 		overflow: hidden;
-		margin-left:30%;
-		margin-right:30%;
+		margin-left:35%;
+		margin-right:35%;
 		margin-top: 110vh;
 		position: absolute;
 }
